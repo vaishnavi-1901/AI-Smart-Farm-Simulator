@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "smart-farm-backend",
   "version": "1.0.0",
@@ -11,17 +10,3 @@
     "start": "node server.js"
   }
 }
-=======
-{
-  "name": "smart-farm-backend",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.4"
-  },
-  "scripts": {
-    "start": "node server.js"
-  }
-}
->>>>>>> 7daba2bddea150de277043110e497a4d2e828425
